@@ -1,0 +1,26 @@
+{
+  "id": 62883,
+  "qr": 1,
+  "opcode": 0,
+  "aa": 0,
+  "tc": 0,
+  "rd": 1,
+  "ra": 1,
+  "rcode": 3,
+  "qdcount": 1,
+  "ancount": 0,
+  "nscount": 1,
+  "arcount": 0,
+  "answers": [],
+  "authority": [
+    {
+      "hostname": "princeton.edu",
+      "ttl": 600,
+      "atype": 6,
+      "rtype": "",
+      "ip": "",
+      "nsname": ""
+    }
+  ],
+  "additional": []
+}
